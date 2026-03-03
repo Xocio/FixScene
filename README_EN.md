@@ -26,11 +26,10 @@ Fixes the issue where Scene daemon fails to start.
 
 ## Overview
 
-**Fix Scene** is a minimal Magisk module.
+**Fix Scene** is a minimalist, no technical content, personal use of Magisk module. 
 
-It runs a boot-time script to obtain and replace a target file for Scene, aiming to fix the issue where the Scene daemon cannot start.
+Run the startup script to get and replace the Daemon file of Scene from `/SD card`, which is used to fix the problem that the Scene daemon can't start.
 
----
 
 ## <img src="icon.png" width="18" style="vertical-align:middle;" /> Upstream
 
