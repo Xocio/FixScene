@@ -35,13 +35,9 @@
 
 ### Upstream: Scene
 
-- GitHub: https://github.com/helloklf/vtools  
-- Сайт: https://www.omarea.com  
-- Лицензия: MIT License  
-
-> Это независимый модуль Magisk и не связан с автором исходного проекта.
-
----
+- [GitHub](https://github.com/helloklf/vtools)
+- [Website](https://www.omarea.com)  
+- License：[GPL-3.0 ](https://github.com/helloklf/vtools/blob/master/LICENSE)
 
 ## Основной фрагмент
 
