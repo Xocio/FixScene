@@ -35,9 +35,9 @@ Run the startup script to get and replace the Daemon file of Scene from `/SD car
 
 ### Upstream Project: Scene
 
-- GitHub: https://github.com/helloklf/vtools  
-- Website: https://www.omarea.com  
-- License: MIT License  
+- [GitHub](https://github.com/helloklf/vtools)
+- [Website](https://www.omarea.com)  
+- License：[GPL-3.0 ](https://github.com/helloklf/vtools/blob/master/LICENSE)
 
 > This is an independent Magisk runtime patch module and is not affiliated with the upstream author.
 
