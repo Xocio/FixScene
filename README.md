@@ -24,7 +24,7 @@
 
 ---
 
-## ✦ 项目简介
+## 项目简介
 
 **Fix Scene** 是一个极简 Magisk 模块。
 
@@ -32,7 +32,7 @@
 
 ---
 
-## ✦ <img src="icon.png" width="18" style="vertical-align:middle;" /> 适用项目
+## <img src="icon.png" width="18" style="vertical-align:middle;" /> 适用项目
 
 ### 上游项目：Scene
 
@@ -44,7 +44,7 @@
 
 ---
 
-## ✦ 核心代码
+## 核心代码
 
 ```sh
 cp -f
